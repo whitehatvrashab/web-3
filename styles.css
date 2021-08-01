@@ -1,0 +1,32 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:sandybrown;
+    font-size: 20px;
+  
+    font-weight: 400;
+    color: rgb(16, 81, 155);
+}
+body{
+    background-color:navajowhite
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:navajowhite
+   
+}
+.grid img{
+    border:solid 2px; color: #000;
+    background-color: white;
+}
+.origami {
+    
+    background-color:navajowhite
+
+    
+    width:310px;
+  ;
+    
+}
